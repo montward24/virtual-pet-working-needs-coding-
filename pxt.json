@@ -1,5 +1,5 @@
 {
-    "name": "virtual pet working needs coding ",
+    "name": "virtual pet working needs coding  - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -26,5 +26,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
